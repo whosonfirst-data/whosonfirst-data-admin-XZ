@@ -1,0 +1,189 @@
+{
+  "id": 85681357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":98141.925158,
+    "geom:bbox":"117.751856381,15.1500820249,117.755692331,15.154369263",
+    "geom:latitude":15.152113,
+    "geom:longitude":117.753812,
+    "gp:id":0,
+    "iso:country":"XZ",
+    "lbl:latitude":15.152039,
+    "lbl:longitude":117.753812,
+    "mps:latitude":15.152039,
+    "mps:longitude":117.753812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:deu_x_preferred":[
+        "Scarborough-Riff"
+    ],
+    "name:eng_x_preferred":[
+        "Scarborough Reef"
+    ],
+    "name:fin_x_preferred":[
+        "Scarboroughin matalikko"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9cif de Scarborough"
+    ],
+    "name:ind_x_preferred":[
+        "Gosong Scarborough"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ab\u30dc\u30ed\u30fc\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\uce74\ubc84\ub7ec \uc554\ucd08"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u0441\u043a\u0438 \u0413\u0440\u0435\u0431\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Scarborough-rif"
+    ],
+    "name:nor_x_preferred":[
+        "Panatagrevene"
+    ],
+    "name:spa_x_preferred":[
+        "Bajo de Masinloc"
+    ],
+    "name:swe_x_preferred":[
+        "Panatag"
+    ],
+    "name:tgl_x_preferred":[
+        "Bajo de Masinloc"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e3i c\u1ea1n Scarborough"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u5ca9\u5c9b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SCR",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"SCR+00?",
+    "ne:adm1_code":"SCR+00?",
+    "ne:admin":"Scarborough Reef",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"-99",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"20004",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Scarborough Reef",
+    "ne:gn_a1_code":"-1",
+    "ne:gn_id":"0",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SCR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"-99",
+    "ne:iso_a2":"-1",
+    "ne:labelrank":"20",
+    "ne:latitude":"15.15210000000",
+    "ne:longitude":"117.75400000000",
+    "ne:mapcolor13":0,
+    "ne:mapcolor9":6,
+    "ne:name":"Scarborough Reef",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SCR",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":-99,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Scarborough Reef",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Scarborough Reef",
+    "qs:a1_lc":"SCR+00?",
+    "qs:adm0":"Scarborough Reef",
+    "qs:adm0_a3":"SCR",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":4001,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85632479,
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":0,
+        "gp:id":-99,
+        "hasc:id":"-99",
+        "wd:id":"Q628716"
+    },
+    "wof:country":"XZ",
+    "wof:geomhash":"d87b6e4b3ac7a74259a92694e1f26f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "disputed_id":85632479,
+            "region_id":85681357
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "disputed_id":85632479,
+            "region_id":85681357
+        }
+    ],
+    "wof:id":85681357,
+    "wof:lastmodified":1536616806,
+    "wof:name":"Scarborough Reef",
+    "wof:parent_id":85632479,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xz",
+    "wof:shortcode":"99",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.7518563809673,
+    15.15008202486558,
+    117.7556923312361,
+    15.15436926303113
+],
+  "geometry": {"coordinates":[[[117.75388717785108,15.15436926303113],[117.75569233123611,15.15188717825072],[117.75388717785108,15.15008202486558],[117.7518563809673,15.15188717825072],[117.75388717785108,15.15436926303113]]],"type":"Polygon"}
+}
