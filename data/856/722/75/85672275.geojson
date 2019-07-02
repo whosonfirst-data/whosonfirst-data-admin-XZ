@@ -25,7 +25,7 @@
     "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kokosov\u00e9 Ostrovy"
     ],
     "name:dan_x_colloquial":[
@@ -128,7 +128,7 @@
         "Ilhas Coco",
         "Ilhas Cocos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insulele Cocos"
     ],
     "name:rum_x_variant":[
@@ -219,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553559971,
+    "wof:lastmodified":1561839477,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
