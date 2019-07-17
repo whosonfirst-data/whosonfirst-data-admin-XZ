@@ -25,8 +25,80 @@
     "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
+    "name:afr_x_preferred":[
+        "Kokoseilande"
+    ],
+    "name:amh_x_preferred":[
+        "\u12ae\u12ae\u1235"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0643\u0648\u0643\u0648\u0633"
+    ],
+    "name:arg_x_preferred":[
+        "Islas Cocos"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u0631 \u0643\u0648\u0643\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Islles Cocos"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0633 \u0622\u062f\u0627\u0644\u0627\u0631\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Kokos adalar\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441 \u0443\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    ],
+    "name:bcl_x_preferred":[
+        "Kaiislahang Cocos"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043a\u043e\u0441\u0430\u0432\u044b\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u0995\u09cb\u09b8"
+    ],
+    "name:bos_x_preferred":[
+        "Kokosova ostrva"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09cb\u0995\u09cb\u09b8"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Cocos"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Cocos"
+    ],
+    "name:cdo_x_preferred":[
+        "Cocos"
+    ],
+    "name:ceb_x_preferred":[
+        "Cocos Islands"
+    ],
     "name:ces_x_preferred":[
         "Kokosov\u00e9 Ostrovy"
+    ],
+    "name:ces_x_variant":[
+        "Kokosov\u00e9 ostrovy"
+    ],
+    "name:chu_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\ua651 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06a9\u0627\u0646\u06cc \u06a9\u06c6\u06a9\u06c6\u0633"
+    ],
+    "name:cor_x_preferred":[
+        "Ynysow Cocos"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Cocos"
     ],
     "name:dan_x_colloquial":[
         "Cocosoerne",
@@ -42,6 +114,9 @@
     "name:deu_x_preferred":[
         "Kokosinseln"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u039a\u03cc\u03ba\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Cocos (Keeling) Islands"
     ],
@@ -53,13 +128,29 @@
         "Cocos Islands",
         "Cocos-Keeling Islands",
         "Keeling Islands",
-        "Territory of Cocos (Keeling) Islands"
+        "Territory of Cocos (Keeling) Islands",
+        "Cocos"
+    ],
+    "name:epo_x_preferred":[
+        "Kokosinsuloj"
+    ],
+    "name:est_x_preferred":[
+        "Kookossaared"
+    ],
+    "name:eus_x_preferred":[
+        "Cocos"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Keeling-saaret"
     ],
     "name:fin_x_variant":[
         "Kookossaaret"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eeles Cocos"
     ],
     "name:fre_x_colloquial":[
         "Iles Coco"
@@ -71,11 +162,57 @@
         "\u00celes Cocos (Keeling)",
         "\u00celes des Cocos"
     ],
+    "name:fry_x_preferred":[
+        "Kokoseilannen"
+    ],
+    "name:gag_x_preferred":[
+        "Cocos Adalar\u0131"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Cocos"
+    ],
+    "name:glv_x_preferred":[
+        "Ellanyn Cocos"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0a95\u0acb\u0ab8"
+    ],
+    "name:hak_x_preferred":[
+        "Cocos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05e7\u05d5\u05e7\u05d5\u05e1"
+    ],
+    "name:hif_x_preferred":[
+        "Cocos"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0915\u094b\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Kokosovi otoci"
+    ],
     "name:hun_x_preferred":[
         "K\u00f3kusz (keeling)-Szigetek"
     ],
     "name:hun_x_variant":[
-        "K\u00f3kusz-szigetek"
+        "K\u00f3kusz-szigetek",
+        "K\u00f3kusz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056f\u0578\u057d\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Insuli Cocos"
+    ],
+    "name:ilo_x_preferred":[
+        "Is-isla ti Cocos"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Cocos"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00f3koseyjar"
     ],
     "name:ita_x_preferred":[
         "Isole Cocos E Keeling"
@@ -84,12 +221,30 @@
         "Isole Cocos",
         "Isole Cocos (Keeling)"
     ],
+    "name:jav_x_preferred":[
+        "Kapuloan Cocos"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30b3\u30b9 (\u30ad\u30fc\u30ea\u30f3\u30b0) \u8af8\u5cf6"
     ],
     "name:jpn_x_variant":[
         "\u30ad\u30fc\u30ea\u30f3\u30b0\u8af8\u5cf6",
         "\u30b3\u30b3\u30b9\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0c95\u0cca\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10e5\u10dd\u10e1\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Ibirwa bya Koko"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"
@@ -98,12 +253,66 @@
         "\ucf54\ucf54\uc2a4 \uad70\ub3c4",
         "\ucf54\ucf54\uc2a4\uc81c\ub3c4"
     ],
+    "name:lat_x_preferred":[
+        "Insulae Cocos seu Keeling"
+    ],
+    "name:lav_x_preferred":[
+        "Kokosu"
+    ],
+    "name:lij_x_preferred":[
+        "Isoe Cocos"
+    ],
+    "name:lim_x_preferred":[
+        "Kokoseilenj"
+    ],
+    "name:lit_x_preferred":[
+        "Kokos\u0173"
+    ],
+    "name:ltz_x_preferred":[
+        "Kokosinselen"
+    ],
+    "name:lzh_x_preferred":[
+        "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5cf6"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d15\u0d4b\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u0915\u094b\u0938 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:min_x_preferred":[
+        "Kapulauan Cocos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mlt_x_preferred":[
+        "G\u017cejjer Kokos"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Cocos"
+    ],
+    "name:nan_x_preferred":[
+        "Cocos"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094b\u0915\u094b\u0938 \u091f\u093e\u092a\u0941"
+    ],
     "name:nld_x_preferred":[
         "Cocoseilanden"
     ],
     "name:nld_x_variant":[
         "Cocos eilanden",
         "Cocos-Keeling-eilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Kokos\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Kokos\u00f8yene"
     ],
     "name:nor_x_colloquial":[
         "Keelingoyene",
@@ -114,6 +323,18 @@
     ],
     "name:nor_x_variant":[
         "Kokos\u00f8yene"
+    ],
+    "name:ori_x_preferred":[
+        "Cocos"
+    ],
+    "name:pam_x_preferred":[
+        "Cocos"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a4b\u0a15\u0a4b\u0a38"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Wyspy Kokosowe"
@@ -134,11 +355,36 @@
     "name:rum_x_variant":[
         "Insulele Cocos (Keeling)"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsuli Cocos"
+    ],
+    "name:sco_x_preferred":[
+        "Cocos"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0d9a\u0ddc\u0dc3\u0dca \u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0dca\u0d9c\u0dca ) \u0daf\u0dd6\u0db4\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Kokosov\u00e9 ostrovy"
+    ],
     "name:spa_x_preferred":[
         "Islas Cocos"
     ],
     "name:spa_x_variant":[
-        "Islas Cocos (Keeling)"
+        "Islas Cocos (Keeling)",
+        "islas Cocos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Kapuloan Cocos"
+    ],
+    "name:swa_x_preferred":[
+        "Visiwa vya Cocos"
     ],
     "name:swe_x_colloquial":[
         "Kokosoarna",
@@ -146,6 +392,27 @@
     ],
     "name:swe_x_preferred":[
         "Kokos\u00f6arna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bcb\u0b9a\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c15\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Kapuluang Cocos"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e04\u0e42\u0e04\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Cocos Adalar\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06d5\u0626\u06d5\u0644\u0649\u06ad \u0643\u0648\u0643\u0648\u0633 \u062a\u0627\u0642\u0649\u0645 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
     "name:und_x_colloquial":[
         "Cocosoeerne (Keelingoeerne)",
@@ -156,6 +423,30 @@
     "name:und_x_variant":[
         "Cocos\u00f8erne (Keeling\u00f8erne)",
         "Kokos\u00f8yene (Keeling\u00f8yene)"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Cocos"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropud-an Cocos"
+    ],
+    "name:wol_x_preferred":[
+        "Dunu Kokos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u79d1\u65af\u7fa4\u5c9b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e5\u10dd\u10e5\u10dd\u10e1\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "\u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 K\u00f3k\u00f3s\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u53ef\u53ef\u65af"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5cf6"
@@ -219,7 +510,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561839477,
+    "wof:lastmodified":1563345316,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
