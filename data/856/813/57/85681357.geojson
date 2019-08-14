@@ -9,8 +9,10 @@
     "geom:bbox":"117.751856381,15.1500820249,117.755692331,15.154369263",
     "geom:latitude":15.152113,
     "geom:longitude":117.753812,
-    "gp:id":0,
     "iso:country":"XZ",
+    "label:eng_x_preferred_shortcode":[
+        "SR"
+    ],
     "lbl:latitude":15.152039,
     "lbl:longitude":117.753812,
     "mps:latitude":15.152039,
@@ -233,10 +235,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":0,
-        "gp:id":-99,
-        "hasc:id":"-99",
         "wd:id":"Q628716"
     },
     "wof:country":"XZ",
@@ -256,12 +254,12 @@
         }
     ],
     "wof:id":85681357,
-    "wof:lastmodified":1563345318,
+    "wof:lastmodified":1565805663,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":85632479,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-xz",
-    "wof:shortcode":"99",
+    "wof:shortcode":"SR",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
