@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "external territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":-12.159615,
     "lbl:longitude":96.830147,
     "mps:latitude":-12.159615,
@@ -510,7 +513,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563345316,
+    "wof:lastmodified":1565739749,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
