@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-12.159615,
     "lbl:longitude":96.830147,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-12.159615,
     "mps:longitude":96.830147,
     "mz:hierarchy_label":1,
@@ -471,9 +472,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-09",
+    "src:population_date":"2011-08-09",
     "statoids:area_km":"14",
     "statoids:area_mi":"5",
     "statoids:as_of_date":"2011-08-09",
@@ -487,7 +488,6 @@
     "statoids:timezone":"+6:30",
     "statoids:type":"external territory of AU",
     "wd:wordcount":4997,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569
     ],
@@ -497,7 +497,7 @@
         "gp:id":23424784,
         "hasc:id":"CC.CC",
         "iso:id":"CC-CC",
-        "qs:id":1087766,
+        "qs_pg:id":1087766,
         "wd:id":"Q36004"
     },
     "wof:country":"XZ",
@@ -513,11 +513,10 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1565739749,
+    "wof:lastmodified":1566657686,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"external territory of AU",
     "wof:population":550,
     "wof:population_rank":2,
