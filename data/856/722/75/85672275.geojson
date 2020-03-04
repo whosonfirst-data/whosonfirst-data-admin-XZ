@@ -501,6 +501,9 @@
         "wd:id":"Q36004"
     },
     "wof:country":"XZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f00b32da49eae6124ca7388138b114da",
     "wof:hierarchy":[
         {
@@ -513,7 +516,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566657686,
+    "wof:lastmodified":1582331740,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
