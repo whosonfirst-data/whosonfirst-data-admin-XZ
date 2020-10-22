@@ -9,7 +9,6 @@
     "geom:bbox":"96.816941408,-12.208725839,96.929489344,-11.8146202465",
     "geom:latitude":-12.134591,
     "geom:longitude":96.862241,
-    "gn:id":"",
     "iso:country":"XZ",
     "label:eng_x_preferred_longname":[
         "Cocos (Keeling) Islands External Territory"
@@ -513,10 +512,7 @@
         }
     ],
     "wof:id":85672275,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582331740,
+    "wof:lastmodified":1603251072,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
