@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
     "geom:area_square_m":98141.925158,
-    "geom:bbox":"117.751856381,15.1500820249,117.755692331,15.154369263",
+    "geom:bbox":"117.751856,15.150082,117.755692,15.154369",
     "geom:latitude":15.152113,
     "geom:longitude":117.753812,
     "iso:country":"XZ",
@@ -30,6 +30,9 @@
     ],
     "name:cat_x_preferred":[
         "Escull Scarborough"
+    ],
+    "name:ces_x_preferred":[
+        "Scarborough Shoal"
     ],
     "name:dan_x_preferred":[
         "Scarborough Shoal"
@@ -151,6 +154,9 @@
     "name:vie_x_preferred":[
         "B\u00e3i c\u1ea1n Scarborough"
     ],
+    "name:yue_x_preferred":[
+        "\u9ec3\u5dd6\u5cf6"
+    ],
     "name:zho_x_preferred":[
         "\u9ec4\u5ca9\u5c9b"
     ],
@@ -238,7 +244,7 @@
         "wd:id":"Q628716"
     },
     "wof:country":"XZ",
-    "wof:geomhash":"d87b6e4b3ac7a74259a92694e1f26f83",
+    "wof:geomhash":"52cc33e897a1b2d75355119de22bacf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,7 +260,7 @@
         }
     ],
     "wof:id":85681357,
-    "wof:lastmodified":1566657687,
+    "wof:lastmodified":1690924053,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":85632479,
     "wof:placetype":"region",
@@ -265,10 +271,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.7518563809673,
-    15.15008202486558,
-    117.7556923312361,
-    15.15436926303113
+    117.751856,
+    15.150082,
+    117.755692,
+    15.154369
 ],
-  "geometry": {"coordinates":[[[117.75388717785108,15.15436926303113],[117.75569233123611,15.15188717825072],[117.75388717785108,15.15008202486558],[117.7518563809673,15.15188717825072],[117.75388717785108,15.15436926303113]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[117.75388700000001,15.154369],[117.755692,15.151887],[117.75388700000001,15.150082],[117.751856,15.151887],[117.75388700000001,15.154369]]],"type":"Polygon"}
 }
