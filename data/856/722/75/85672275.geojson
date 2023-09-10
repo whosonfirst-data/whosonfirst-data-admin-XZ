@@ -20,11 +20,11 @@
     "label:eng_x_preferred_shortcode":[
         "CC"
     ],
-    "lbl:latitude":-12.159615,
-    "lbl:longitude":96.830147,
+    "lbl:latitude":-12.076832,
+    "lbl:longitude":96.840756,
     "lbl:min_zoom":8.0,
-    "mps:latitude":-12.159615,
-    "mps:longitude":96.830147,
+    "mps:latitude":-12.076832,
+    "mps:longitude":96.840756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":18.0,
@@ -552,7 +552,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690924052,
+    "wof:lastmodified":1694320600,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
