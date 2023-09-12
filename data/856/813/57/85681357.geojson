@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000008,
-    "geom:area_square_m":98141.925158,
+    "geom:area_square_m":98137.745514,
     "geom:bbox":"117.751856,15.150082,117.755692,15.154369",
     "geom:latitude":15.152113,
     "geom:longitude":117.753812,
     "iso:country":"XZ",
+    "label:eng_x_preferred_placetype":[
+        "disputed"
+    ],
     "label:eng_x_preferred_shortcode":[
         "SR"
     ],
@@ -19,7 +22,7 @@
     "mps:latitude":15.152039,
     "mps:longitude":117.753812,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
     "name:ara_x_preferred":[
@@ -244,7 +247,7 @@
         "wd:id":"Q628716"
     },
     "wof:country":"XZ",
-    "wof:geomhash":"52cc33e897a1b2d75355119de22bacf1",
+    "wof:geomhash":"cab65ec68a1e62089ed80ee6e6204dca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":85681357,
-    "wof:lastmodified":1690924053,
+    "wof:lastmodified":1694493125,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":85632479,
     "wof:placetype":"region",
