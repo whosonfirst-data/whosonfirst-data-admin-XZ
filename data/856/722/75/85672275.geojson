@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001139,
-    "geom:area_square_m":13770762.505368,
+    "geom:area_square_m":13770755.243956,
     "geom:bbox":"96.816941,-12.208726,96.929489,-11.81462",
     "geom:latitude":-12.134591,
     "geom:longitude":96.862241,
@@ -532,15 +532,17 @@
         "fips:code":"CK",
         "gp:id":23424784,
         "hasc:id":"CC.CC",
+        "iso:code":"CC-CC",
         "iso:id":"CC-CC",
         "qs_pg:id":1087766,
         "wd:id":"Q36004"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"XZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dd6d40b5d7c97a937d983cdbc21c6f5",
+    "wof:geomhash":"cbcf803ffc0ad8cf21b7b31e74b136ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -552,7 +554,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690924052,
+    "wof:lastmodified":1695884356,
     "wof:name":"Cocos (Keeling) Islands",
     "wof:parent_id":-1,
     "wof:placetype":"region",
